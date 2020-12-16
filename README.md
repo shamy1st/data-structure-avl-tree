@@ -1,2 +1,1 @@
-# data-structure-avl-tree
-AVL Tree
+# AVL Tree
